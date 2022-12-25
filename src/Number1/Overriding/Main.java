@@ -12,11 +12,11 @@ public class Main {
 
         Tabung tabung = new Tabung();
 
+        tabung.setTinggi(tinggi);
         tabung.setJariJari(jariJari);
-        tabung.luasTabung(tinggi);
+        tabung.luasTabung();
 
-        System.out.println("Luas tabung dengan jari-jari " + tabung.jariJari +
-                " dan tinggi " + tabung.tinggi + " = " + tabung.luasTabung(tinggi));
+        tabung.display();
     }
 }
 //    Overriding adalah suatu cara untuk mendefinisikan ulang method
