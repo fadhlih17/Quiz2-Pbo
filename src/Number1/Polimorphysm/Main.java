@@ -8,4 +8,3 @@ public class Main {
         karyawan.Data("Lapangan");
     }
 }
-//Polimorphysm merupakan konsep oop yang memiliki banyak bentuk method yang berbeda, meskipun nama nya sama.

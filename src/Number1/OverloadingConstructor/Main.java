@@ -1,5 +1,4 @@
 package Number1.OverloadingConstructor;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -18,6 +17,3 @@ public class Main {
 
     }
 }
-//mendefinisikan lebih dari satu constructor
-//tetapi parameter yang dideklarasikan
-//harus berbeda baik itu jumlahnya ataupun tipe parameternya.

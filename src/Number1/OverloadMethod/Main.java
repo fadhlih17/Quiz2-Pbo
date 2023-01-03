@@ -11,16 +11,13 @@ public class Main {
         return panjang * lebar * tinggi;
     }
     public static void main(String[] args) {
-
         int kubus = bangunRuang(3);
         int balok = bangunRuang(12,5,3);
 
         bangunRuang();
         System.out.println("Hasil perhitungan kubus " + kubus);
         System.out.printf("Hasil perhitungan balok %d ", balok);
-
     }
 }
-// Method overloading : mendefinisikan lebih dari satu method
-//dengan nama yang sama tetapi parameter yang dideklarasikan
-//harus berbeda baik itu jumlahnya ataupun tipe parameternya.
+
+

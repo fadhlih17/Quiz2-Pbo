@@ -17,7 +17,6 @@ public class KaryawanGol1 implements Perusahaan{
         return gajiLembur;
     }
 
-
     @Override
     public void data() {
         System.out.println("##### Data Karyawan Golongan 1 #####");

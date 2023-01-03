@@ -1,5 +1,4 @@
 package Number1.Interface;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -16,5 +15,4 @@ public class Main {
         karyawanGol1.gaji();
     }
 }
-// Interface adalah blue print dari class. Isi method-nya kosong dan
-//nanti akan diimplementasikan pada class lain.
+

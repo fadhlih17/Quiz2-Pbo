@@ -19,6 +19,4 @@ public class Main {
         tabung.display();
     }
 }
-//    Overriding adalah suatu cara untuk mendefinisikan ulang method
-//    yang ada pada class induk apabila class anak menginginkan
-//        adanya informasi yang lain
+

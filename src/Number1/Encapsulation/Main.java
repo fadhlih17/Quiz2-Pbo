@@ -9,4 +9,4 @@ public class Main {
         perkalian.Result(number1, number2);
     }
 }
-// Encapsulation : Salah satu konsep oop yang membungkus data/variabel secara private agar tidak bisa di akses class lain
+

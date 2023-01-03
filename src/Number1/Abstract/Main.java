@@ -12,4 +12,3 @@ public class Main {
         persegiPanjang.printHasil();
     }
 }
-// abstract : class ataupun method yang masih dalam bentuk abstrak. Karena bentuknya masih abstrak, dia tidak bisa dibuat langsung menjadi objek.
